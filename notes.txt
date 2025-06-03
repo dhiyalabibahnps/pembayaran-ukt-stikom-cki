@@ -1,0 +1,45 @@
+Bahasa pemrograman : PHP ( untuk codingan website yg lebih ke arah html & css), bootstrap(style), mySQL (database)
+
+Struktur project : 
+/ukt_app
+│
+├── index.php                    (halaman login)
+├── dashboard.php                (dashboard mahasiswa)
+├── admin.php                    (dashboard admin)
+├── bayar.php                    (proses pembayaran)
+├── riwayat.php                  (riwayat pembayaran)
+├── koneksi.php                  (file koneksi database)
+├── export_pembayaran_excel.php  (file export ke excel)
+├── export_pembayaran_pdf.php    (file export ke pdf)
+├── login_admin.php              (login ke halaman admin)
+├── logout_admin.php             (logout dari halaman admin)
+├── riwayat.php                  (lihat riwayat pembayaran SPP)
+└── /assets		                  (folder aset, untuk taruh css/gambar/library)
+    ├── style.css       (CSS, untuk styling website) klo udh selesai class html utk memberikan styling terhadap html/website 
+    ├── fpdf.php        (library untuk export ke pdf)
+
+
+
+Akun Mahasiswa : 
+1. Akun 1
+   - NIM: 202310001
+   - Password: 1234
+
+2. Akun 2
+   - NIM: 202310002
+   - Nama: Siti Aminah
+   - Password: abcd
+
+
+Akun Admin 
+Username: admin
+Password: admin123
+
+
+library yang dipakai : 
+1. fpdf     
+   link     :    https://www.fpdf.org/en/download.php
+   fungsi   :    untuk export ke pdf 
+2. bootstrap 
+   link     :     https://getbootstrap.com/docs/5.3/getting-started/download/
+   fungsi   :     untuk membuat tampilan website menjadi lebih bagus

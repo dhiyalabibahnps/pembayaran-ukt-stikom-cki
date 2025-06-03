@@ -1,0 +1,36 @@
+1. admin.php 
+File ini berisi kode untuk fitur dashboard admin
+
+2. bayar.php 
+File ini berisi kode untuk fitur pembayaran 
+
+3. dashboard.php 
+File ini berisi kode untuk dashboard mahasiswa 
+
+4. export_pembayaran_excel.php 
+File ini berisi kode untuk export laporan pembayaran ke dalam bentuk excel 
+
+5. export_pembayaran_pdf.php 
+File ini berisi kode untuk export laporan pembayaran ke dalam bentuk pdf 
+
+6. index.php 
+File ini berisi kode untuk login ke dashboard mahasiswa 
+
+7. login_admin.php 
+File ini berisi kode untuk login ke dashboard admin 
+
+8. logout_admin.php 
+File ini berisi kode untuk logout / keluar dari dashboard admin 
+
+9. logout.php 
+File ini berisi kode untuk logout / keluar dari dashboard mahasiswa 
+
+10. logout.php 
+File ini berisi kode untuk menampilkan riwayat pembayaran UKT 
+
+11. bukti_pembayaran.php 
+File ini berisi kode untuk menghasilkan surat bukti pembayaran dalam bentuk PDF yang dapat diunduh kedalam perangkat 
+
+Progress hari ini : 
+1. Penambahan fitur download bukti pembayaran (lewat file bukti_pembayaran.php)
+2. Penambahan tombol download bukti pembayaran dari sisi dashboard mahasiswa (dashboard.php), maupun dashboard admin (admin.php) 
