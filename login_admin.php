@@ -42,7 +42,7 @@ if (isset($_POST['login'])) {
         class="max-w-6xl w-full bg-white flex flex-col md:flex-row items-center p-8">
         <div class="flex justify-center md:w-1/2 mb-8 md:mb-0 md:h-full">
             <img
-                alt="STIKOM Cipta Karya Informatika logo shield with blue, red, yellow, and black elements and text below"
+                alt="STIKOM Cipta Karya Informatika logo"
                 class="w-[300px] h-auto"
                 height="300"
                 src="logo_login.png"
